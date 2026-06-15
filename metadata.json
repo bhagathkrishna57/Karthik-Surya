@@ -1,6 +1,0 @@
-{
-  "name": "Karthik Surya Portfolio",
-  "description": "Interactive single-page portfolio for digital creator Karthik Surya. Hailing from Thiruvananthapuram, Kerala's premier lifestyle vlogger, digital creator, and television presenter.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
